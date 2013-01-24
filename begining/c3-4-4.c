@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<string.h>
 
+/*Rujia Liu book Beginning Algorithms Contest 3.4.4 practice 1,2 page 47*/
+
 int p1() {
   char c;
   int a=0;
