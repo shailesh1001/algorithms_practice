@@ -1,4 +1,8 @@
 # C++
+# temp files for C++
+*.cpp~
+*.cxx~
+
 # Compiled Object files
 *.slo
 *.lo
@@ -14,6 +18,9 @@
 *.a
 
 # C 
+# Temp file for emacs
+*.c~
+
 # Object files
 *.o
 
